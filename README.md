@@ -1,6 +1,6 @@
 ## Welcome to Choi Suhyeon's Github
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Suhyeon)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-Suhyeon&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Suhyeon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-Suhyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Choi-Suhyeon/Choi-Suhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
